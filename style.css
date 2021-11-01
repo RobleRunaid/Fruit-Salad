@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: rgb(196, 185, 199);
+}
+img{
+    width: 400px;
+}
+#benefits{
+    width: 800px;
+    margin-left: 250px;
+    color: darkviolet;
+    font-size: 20px;
+}
+.steps{
+    width: 800px;
+    text-align: left;
+    margin-left: 440px;
+    color: darkgreen;
+    font-size: 20px;
+}
+hr{
+    background-color: black;
+}
+li:nth-child(3){
+    color: blue;
+}
+li:nth-child(4){
+    color: red;
+}
+li:nth-child(1){
+    color:rgb(255, 208, 0);
+}
